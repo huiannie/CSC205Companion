@@ -1,0 +1,33 @@
+END-USER LICENSE AGREEMENT (EULA) FOR THE "CSC205 COMPANION" SOFTWARE
+
+This End-User License Agreement (EULA) is a legal agreement between you and Annie Hui @ NVCC (the Owner).
+
+By accepting this agreement, or by installing, or by using this Software, which includes the source code, the binaries, the images and the logos, you agree to all the following, notwithstanding anything to the contrary of this agreement.
+
+
+1. Purpose of use
+
+The Owner provides this Software for the sole purposes of education and scientific advancement.
+
+2. Copyright notice
+
+Unless otherwise specified, the Owner owns the authorship and the copyright of the source code, the binaries, the images and the logos of this software and its online distributions.
+
+
+3. Disclaimer
+
+The Owner expressly disclaims any responsibility for any harm directly or indirectly resulting from this Software. The Owner does not guarantee that this software is free from bugs, viruses, or other harmful content. 
+
+The Owner disclaims any use of this Software to the contrary of the Owner's original intention as stated in item 1.
+
+
+4. Licenses
+
+This Software is distributed under the Apache 2.0 License. A copy of this License may be obtained at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+
+5. Warranty and Service-level agreement
+
+This Software is provided by the Owner "AS IS", without any warranties, or conditions of any kind, or service-level agreement, either expressed or implied. You are responsible for any risks associated with its use or with the possession of any copies of it. 

@@ -1,0 +1,45 @@
+<!--
+  ~ Copyright (c) 2015,2016 Annie Hui @ NVCC
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">CSC205 Companion</string>
+
+    <string name="menu_tools_numToRep">Value to representation</string>
+    <string name="menu_tools_repToNum">Representation to value</string>
+    <string name="menu_tools_arithInt">Integer arithmetic</string>
+    <string name="menu_tools_pipelineIdeal">Ideal pipeline</string>
+    <string name="menu_tools_pipelineOverhead">Pipeline with overhead</string>
+    <string name="menu_tools_mem2L">Two-level memories</string>
+
+
+    <string name="label_carry">Carry</string>
+    <string name="label_plus">+</string>
+    <string name="label_blank">\ </string>
+
+    <string name="label_mem2L_t1">T1</string>
+    <string name="label_mem2L_t2">T2</string>
+    <string name="label_mem2L_h">h</string>
+    <string name="label_mem2L_parallel">par</string>
+    <string name="label_mem2L_sequential">seq</string>
+    <string name="label_mem2L_logscaled">lg</string>
+    <string name="label_mem2L_linear">lin</string>
+
+    <string name="menu_info">Info</string>
+    <string name="menu_help">Help</string>
+
+    <string name="button_OK">OK</string>
+
+</resources>
